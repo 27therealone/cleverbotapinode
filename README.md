@@ -1,5 +1,5 @@
-# cleverbotapinode
-Async JavaScript wrapper for the Cleverbot API with promises. 
+# cleverbot-api-node
+Async JavaScript wrapper for the Cleverbot API based off ES6 promises. 
 
 ## Example:
 ```javascript
