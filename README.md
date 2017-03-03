@@ -18,3 +18,5 @@ Clever.request('<your message request here>').then(function(response) {
 npm i cleverbot-api-node --save
 ```
 
+API key can be found at <http://www.cleverbot.com/api>
+
