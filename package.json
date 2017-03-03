@@ -1,11 +1,16 @@
 {
   "name": "cleverbot-api-node",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Async JavaScript wrapper for the Cleverbot API based off ES6 promises.",
   "main": "cleverbot.js",
   "author": "27therealone <27therealone@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/27therealone/cleverbotapinode",
+  "keywords": ["cleverbot", "javascript", "node-js", "async"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/27therealone/cleverbotapinode"
+  },
   "dependencies": {
     "request": "^2.79.0"
   }
